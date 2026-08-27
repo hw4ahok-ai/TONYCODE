@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="tc_teal">#16C7C3</color>
+    <color name="tc_bg">#081011</color>
+    <color name="tc_surface">#132022</color>
+    <color name="tc_text">#F4F7F7</color>
+
+</resources>
